@@ -1,0 +1,1 @@
+C:\Users\gilmar\Desktop\Develop\Training\Maui\Hangman\Hangman\Hangman.csproj;x64
